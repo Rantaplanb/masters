@@ -1,0 +1,7 @@
+# Application documents may contain personal, identity, and educational records.
+private/*
+!private/README.md
+
+# Local working files.
+tmp/
+.DS_Store

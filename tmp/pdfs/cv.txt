@@ -1,0 +1,115 @@
+Loukas Mertzanis
+Senior DevOps Engineer | Cloud and Platform Engineering | AI Automation
+loukas.mertzanis@gmail.com | +41 71 539 16 33
+LinkedIn | GitHub | GitLab
+
+
+Professional Summary
+Senior DevOps Engineer with 5+ years of experience focused on agentic workflows, internal developer platforms, CI/CD systems,
+and cloud‐native infrastructure. Built and delivered systems across enterprise SaaS, automotive, maritime and startup environ‐
+ments, with measurable impact on delivery velocity, reliability, cost efficiency, and developer productivity.
+Key Achievements
+• Led engineering of an internal platform standardizing service lifecycle from bootstrap to multi‐region deployment, improving
+  DORA metrics 4x.
+• Implemented composable agentic workflows that automate complex engineering and business processes, including a workflow
+  that resolves 20% of Jira tickets autonomously.
+• Built a navigation app prototype for Android Automotive, by porting an 80GB embedded C++ navigation stack, laying the
+  foundation for a product that became a flagship offering.
+• Delivered a complete OTA updating solution for one of the top 5 automotive manufacturers, used to update millions of vehicles
+  all over the world.
+
+Experience
+
+Senior DevOps Engineer                                                                                           2026 – Present
+Sitecore
+• Leading development of an agentic ecosystem with composable workflows for alert triage, ticket analysis, and feature imple‐
+  mentation, achieving 10x reduction in triage‐to‐ticket and lead time for supported systems.
+• Managing GitHub organization governance, CI/CD standards, and self‐hosted GitHub Actions runners across 1000+ reposito‐
+  ries and 500+ developers.
+• Joined a hand‐picked DevOps Tiger Team to deploy all Sitecore Cloud products into Azure US Central region under capacity
+  constraints, completing rollout in under one month and preventing 15 projected SLA breaches.
+DevOps Engineer                                                                                                    2025 – 2026
+Sitecore
+• Developed a self‐service internal developer portal in Backstage, able to create, configure, and deploy microservices to Kuber‐
+  netes, along with needed cloud infrastructure. Achieved a 4x average improvement in all DORA metrics by standardization,
+  optimization and abstraction of CI/CD, infrastructure, and observability overhead from product teams.
+• Enhanced golden‐path workflows with additional features and improved performance through Dockerfile and tooling optimiza‐
+  tions.
+• Replatformed GitHub Actions runners from Azure VMSS to AKS via Actions Runner Controller, making startup times 80% faster
+  on average and reducing infrastructure costs by 35% (saving 42K USD annually).
+• Implemented migration tooling and process support from Bitbucket to GitHub, then decommissioned Bitbucket (saving 36K
+  USD annually).
+CTO (Co‐Founder)                                                                                                 2025 – Present
+Hermetica
+• Leading product and technical strategy for a document‐to‐insight platform supporting board meetings and high‐stakes due
+  diligence decisions.
+• Built MVP capabilities for document ingestion and analysis, commitment tracking, and risk/sentiment shift detection.
+• Operating at pre‐seed product‐fit stage, running a pilot with a major Greek group holding company, and participating in the
+  OpenAI Accelerator.
+Tech Lead (Contractor)                                                                                           2025 – Present
+Elvictor
+• Partnered with C‐level stakeholders on product framing and KPI definition.
+• Led migration from on‐premise infrastructure to AWS and implemented a future‐proof cloud architecture.
+• Designed and delivered AI‐powered workflows and evaluation pipelines that automated business operations, reduced manual
+  work, increased reliability, and improved customer satisfaction.
+
+
+
+                                                               1
+• Decoupling and redesigning a monolithic system into microservices, enabling scale, improving performance, introducing new
+  business critical features, and supporting long‐term business sustainability.
+Cloud and Software Engineer                                                                                        2023 – 2024
+Software Competitiveness International (Tier‐1 Automotive)
+• Designed and developed over 30% of the microservices codebase in Go for a complete eSync‐compliant Over‐The‐Air updating
+  solution.
+• Led GitLab CI/CD and Infrastructure as Code setup for AWS multi‐stage deployments.
+• Implemented a full‐stack certification workbench for OTA components using Python, gRPC, and C++.
+Software Engineer                                                                                                  2021 – 2023
+Software Competitiveness International (Tier‐1 Automotive)
+• Ported an 80GB embedded C++ navigation stack from embedded Linux to Android Automotive via cross compiling with clang
+  (past attempts by other teams failed) and integrated it with a Java app prototype via JNI.
+• Developed a Java navigation app prototype and connected it to the native navigation engine via JNI; this laid the foundation
+  for a flagship company product.
+• Maintained production infotainment OTA components, handling change requests, bugfixes, and ASPICE documentation.
+• Promoted from Software Engineer to Cloud and Software Engineer based on expanded ownership across architecture, CI/CD,
+  and infrastructure.
+Junior Software Developer                                                                                          2020 – 2022
+FORTH ‐ Institute of Computer Science
+• Implemented a question‐answering evaluation pipeline using machine translation and BERT language models, leading to 2 pub‐
+  lications.
+• Developed Alexa skills and chatbots for smart home environments.
+Skills
+• Cloud & Infrastructure: AWS, Azure, Kubernetes, Docker, Terraform/IaC, Linux, CloudSecOps.
+• CI/CD & Source Control: GitHub Actions, GitLab CI/CD, GitHub governance, Git workflows.
+• Platform Engineering & AI Automation: Backstage, Agentic Workflows, Microsoft Agent Framework, DevEx.
+• Programming: Python, Go, Bash, C++, C, Java, JavaScript.
+• Observability & Data: Grafana stack, PostgreSQL.
+
+Education
+
+BSc, Computer Science                                                                                              2019 – 2023
+University of Crete
+• Completed all required coursework for the 4‐year degree in 2 years, the first student in department history to do so.
+• GPA: 9.04/10, Top 1%.
+Certifications
+• AWS Certified Solutions Architect (Score: 96%) – View in Credly
+• CKA: Certified Kubernetes Administrator – View in Credly
+
+Projects / Publications
+• Alpha Language Compiler and Virtual Machine – Compiler repo, VM repo
+• A Comparative Evaluation for Question Answering over Multilingual Texts by using Machine Translation and BERT – Publication,
+  Implementation
+• Tiresias: BERT‐based Multilingual Question Answering through Machine Translation – Publication (ISWC 2022 workshop)
+
+Awards
+• Won 3rd place at Panathenea 2025 start‐up pitching competition among 60 startups with international operations. The judges
+  were EMEA executives from Microsoft and Microsoft.
+• ICS‐FORTH Undergraduate Scholarship ”Stelios Orphanoudakis” (top 3 students per academic year, for 3 consecutive years).
+• Huawei Scholarship ”Seeds for the Future” (awarded to 5 students in the whole department).
+• Aegean Airlines Scholarship ”Konta Stous Neous” (top 1% in Greek national examinations).
+
+
+
+
+                                                               2
+

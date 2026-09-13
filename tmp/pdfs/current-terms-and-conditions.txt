@@ -1,0 +1,326 @@
+                              UNIVERSITY OF PIRAEUS
+             SCHOOL OF INFORMATION AND COMMUNICATION TECHNOLOGIES
+                          DEPARTMENT OF DIGITAL SYSTEMS
+
+
+
+                                  Distance Learning Master of Science
+                          Advanced Cybersecurity Technologies and Governance
+                                https://cybersecgov.ds.unipi.gr/en/home/
+
+
+
+
+           TERMS AND CONDITIONS OF ADMISSION
+
+
+
+
+                                                 Version 1.0, August 2026
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 1
+   Please read these Terms carefully before accepting your (conditional) offer
+
+   By accepting your (Conditional) Offer, you accept these Terms and agree to be
+                                 bound by them.
+
+  If you do not accept these Terms, you should not accept your (conditional) offer.
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 2
+                                                                 Contents
+1. Introduction and scope ................................................................................................................. 4
+2. Definitions .................................................................................................................................. 4
+3. Acceptance and formation of this agreement ................................................................................... 5
+4. The Programme and how it is delivered ......................................................................................... 5
+5. Fees and payment ........................................................................................................................ 6
+6. Your right to withdraw (cooling-off period).................................................................................... 6
+7. Withdrawal, deferral and refunds after the cooling-off period ........................................................... 7
+8. Your obligations .......................................................................................................................... 7
+9. Our obligations and platform availability ....................................................................................... 7
+10. Recordings and your participation................................................................................................ 7
+11. Platforms used to deliver the Programme...................................................................................... 8
+12. Suspension and termination of enrolment ..................................................................................... 8
+13. Complaints and disputes ............................................................................................................. 8
+14. Liability .................................................................................................................................... 9
+15. Your personal information .......................................................................................................... 9
+16. Changes to these Terms .............................................................................................................. 9
+17. General ..................................................................................................................................... 9
+18. Governing law and jurisdiction .................................................................................................... 9
+19. How to contact us..................................................................................................................... 10
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission                                      Page 3
+1. Introduction and scope
+1.1    These Terms and Conditions of Admission (the “Terms”) govern your admission to, and
+       participation in, the M.Sc. Programme “Advanced Cybersecurity Technologies and
+       Governance” delivered by the University of Piraeus, Department of Digital Systems (“UNIPI”,
+       “we”, “us” or “our”) through the Programme’s Virtual Campus. UNIPI is a higher education
+       institution established under Greek law, located at 80 M. Karaoli & A. Dimitriou, 18534 Piraeus,
+       Greece.
+1.2    These Terms form the agreement between you and UNIPI for the duration of your studies. They take
+       effect when you accept your (conditional) offer and pay any applicable fees, and they continue until
+       your studies end. The separate terms governing the application portal applied to your application;
+       these Terms govern your studentship.
+1.3    These Terms should be read together with: your (Conditional) Offer and any programme-specific
+       terms communicated to you; the Regulation Governing the Operation of the Programme; the Study
+       Guide; and the UNIPI Privacy Notice (see Clause 15), which explains how UNIPI handles your
+       personal information.
+1.4    If there is any conflict, the following order of precedence applies: (a) your (Conditional) Offer and
+       programme-specific terms; (b) the Regulation Governing the Operation of the Programme; (c) these
+       Terms; and (d) the Study Guide.
+
+2. Definitions
+In these Terms, unless the context requires otherwise:
+2.1    “Acceptance Deadline” means the period of ten (10) calendar days from the date your Conditional
+       Offer is issued, within which you must pay the first instalment of your Tuition Fees to secure your
+       place.
+2.2    “Application Fee” means the non-refundable fee of €200 (two hundred euros) payable on
+       submission of your application.
+2.3    “Conditional Offer” means a conditional offer of admission issued to a not Eligible Student, subject
+       to payment of the first instalment of your Tuition Fees by the Acceptance Deadline and to any other
+       conditions stated in it.
+2.4    “Eligible Student” means an applicant who is a citizen of an EU Member State, or of a country
+       participating in the Digital Europe Programme (DEP), and who qualifies for the Tuition-Fee Waiver,
+       subject to admission and confirmation of eligibility.
+2.5    “MFA” means multi-factor authentication, the security process requiring you to verify your identity
+       through two or more independent methods before accessing your account.
+2.6    “Offer” means an unconditional offer of admission issued to an Eligible Student.
+2.7    “Programme” means the M.Sc. programme “Advanced Cybersecurity Technologies and
+       Governance” you are admitted to, as described in your (Conditional) Offer.
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 4
+2.8    “Study Guide” means the specific Programme’s Study Guide, as updated from time to time, which
+       forms part of these Terms.
+2.9    “Tuition Fee” means the tuition fee of €5,000 (five thousand euros) payable by students who are not
+       Eligible Students.
+2.10 “Tuition-Fee Waiver” means the full waiver of tuition fees available to Eligible Students; the waiver
+     applies to tuition fees only and does not cover the Application Fee.
+2.11 “Virtual Campus” means the M.Sc. Programme’s online learning environment and connected
+     platforms through which the Programme is delivered.
+2.12 “you” and “your” mean the admitted student who accepts these Terms.
+
+3. Acceptance and formation of this agreement
+3.1    You become a student of UNIPI when you, as an Eligible Student, accept your Offer, or you, as a not
+       Eligible Student, accept your Conditional Offer and UNIPI receives the first instalment of your
+       Tuition Fees by the Acceptance Deadline, and when any other conditions stated in your Conditional
+       Offer are met.
+3.2    By accepting your (Conditional) Offer, you confirm that:
+          (a) you are at least 18 years of age;
+          (b) all information you have provided is, and will remain, accurate, truthful and complete; and
+          (c) you have read these Terms and the Study Guide, accept these Terms, and agree to follow the
+              Study Guide.
+3.3    If the first instalment of your Tuition Fees is not received by the Acceptance Deadline, UNIPI may
+       withdraw your Conditional Offer and offer your place to another applicant.
+3.4    Your studies begin on the Programme start date stated in your (Conditional) Offer or otherwise
+       notified to you.
+
+4. The Programme and how it is delivered
+4.1    UNIPI will provide the Programme described in your (Conditional) Offer and on the relevant
+       programme page, with reasonable care and skill. This includes scheduled live online sessions,
+       recorded sessions, learning materials, assessment and, on successful completion of all requirements,
+       the award for the Programme.
+4.2    The Programme is delivered online.
+4.3    UNIPI delivers its programmes to recognised quality standards: the M.Sc. in Advance Cybersecurity
+       Technologies and Governance is accredited by the Hellenic Authority for Higher Education and is
+       positioned at EQF/ISCED Level 7.
+4.4    UNIPI may make reasonable changes to the content, structure, timetable, teaching staff, assessment
+       methods or platforms of the Programme, provided that such changes do not materially reduce the
+       overall quality or standard of the Programme. UNIPI will notify you of any significant change as
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 5
+       soon as reasonably practicable. Where a significant change materially disadvantages you, you may
+       withdraw and receive a refund in accordance with Clause 6 or Clause 7.
+4.5    UNIPI does not guarantee any particular academic, career or employment outcome. Outcomes
+       depend on your own performance and on factors outside the control of UNIPI.
+4.6    Course materials and recorded sessions are made available to you under a limited, personal and non-
+       transferable licence to use them for your own studies only, for the duration of your studies. You must
+       not copy, download, reproduce, share, re-publish, sell, or otherwise make them available to anyone
+       outside the Virtual Campus, and you must not make your own recording of a live session (see also
+       Clause 10).
+4.7    You keep ownership of the original work you create as part of your studies. You grant UNIPI a
+       licence to use, copy and store that work as far as needed to deliver and administer the Programme, to
+       assess and moderate your work, and to meet quality-assurance and accreditation requirements. Where
+       your work involves a third party (for example, an employer in an applied project), you are responsible
+       for obtaining any permissions needed.
+4.8    You must respect the rights of others in everything you submit or post, and must not include material
+       that infringes a third party’s rights or breaches any duty of confidentiality.
+
+5. Fees and payment
+5.1    An Application Fee of €200 was payable on submission of your application and has already been
+       paid. It is non-refundable and is not covered by the Tuition-Fee Waiver.
+5.2    Eligible Students receive a full Tuition-Fee Waiver, subject to admission and confirmation of
+       eligibility. Students who are not Eligible Students are responsible for the Tuition Fee of €5,000. The
+       fees that apply to you are set out in your Conditional Offer.
+5.3    All fees are stated in euros and are inclusive of any applicable value added tax (VAT) unless
+       otherwise stated. Payments are made through the payment method(s) made available by UNIPI and
+       are subject to the terms of the relevant payment service provider.
+5.4    Where instalments are offered, the amounts and due dates will be set out in your Conditional Offer
+       or otherwise notified to you.
+5.5    If you do not pay any fee when due, UNIPI may, after giving you notice and a reasonable opportunity
+       to pay, suspend your access to the Virtual Campus, withhold results or certificates, or terminate your
+       enrolment in accordance with Clause 12.
+
+6. Your right to withdraw (cooling-off period)
+6.1    Because this agreement is concluded at a distance with you as a consumer, you have the right to
+       withdraw from it within fourteen (14) days, without giving any reason. The period begins on the day
+       after the day on which this agreement is concluded (that is, the day on which you became a UNIPI
+       student in accordance with Clause 3.1).
+6.2    To withdraw, you must inform UNIPI of your decision by a clear statement before the period ends,
+       by email to cybersecgov@unipi.gr. The withdrawal is effective if sent before the period expires.
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 6
+6.3    If you withdraw within the cooling-off period, UNIPI will, within fourteen (14) days of being
+       informed of your withdrawal, refund the amounts you have paid under these Terms less any
+       proportionate amount payable for the part of the Programme already provided to you up to the time
+       you withdraw and less the non-refundable Application Fee.
+
+7. Withdrawal, deferral and refunds after the cooling-off period
+7.1    If you wish to withdraw from the Programme after the cooling-off period, you must notify UNIPI by
+       email to cybersecgov@unipi.gr. UNIPI will not refund the tuition fees you have paid.
+7.2    Instead of withdrawing, you may be able to defer your place to a later intake, where UNIPI agrees.
+
+8. Your obligations
+8.1    As a student, you agree to:
+          (a) keep the information UNIPI holds about you accurate and up to date, and tell us promptly of
+              any change;
+          (b) keep your login details confidential, complete MFA when asked, not share your account, and
+              report any suspected unauthorised access;
+          (c) comply with the Study Guide, and abide by the rules it sets out, including on conduct, academic
+              integrity, recordings and acceptable use;
+          (d) use the Virtual Campus and its platforms only for your studies and only in lawful ways; and
+          (e) engage with your Programme — attending or watching your sessions and meeting your
+              deadlines.
+
+9. Our obligations and platform availability
+9.1    UNIPI will provide the Programme and reasonable student support and will deliver the Virtual
+       Campus with reasonable care and skill.
+9.2    UNIPI does not guarantee that the Virtual Campus will be available without interruption or free of
+       errors. The Virtual Campus may be unavailable from time to time for maintenance, updates or reasons
+       beyond our control, and UNIPI is not responsible for the availability of third-party platforms (see
+       Clause 11).
+9.3    UNIPI is not liable for any failure or delay in performing its obligations caused by events beyond its
+       reasonable control. If such an event continues for a prolonged period, UNIPI will take reasonable
+       steps to provide a suitable alternative or, where it cannot, to make a fair adjustment to your fees.
+
+10. Recordings and your participation
+10.1 You accept that live sessions on your Programme are recorded and made available within the Virtual
+     Campus to students on that course.
+10.2 When you take part in a session — for example by speaking, turning on your camera, or posting in
+     the session — you accept that your contribution may form part of the recording.
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 7
+10.3 You also accept that meetings held as part of the complaints or disciplinary procedures (see Clauses
+     12 and 13) may be recorded so that there is an accurate record, where you are told in advance; any
+     such recording is kept confidentially and used only for that procedure and any related appeal.
+10.4 You must not record, download, copy, screenshot, re-publish or share any session or recording
+     outside the Virtual Campus, and you must not make your own recording of a live session.
+
+11. Platforms used to deliver the Programme
+11.1 The Virtual Campus is delivered through a number of connected platforms, which currently include
+     the learning environment, an identity and sign-in service, a student-records system, a digital-
+     credentials service, an alumni-community platform and a payment service provider.
+11.2 Your use of certain platforms may also be subject to the terms of the relevant provider. UNIPI is not
+     responsible for the acts, omissions or availability of third-party platforms beyond its reasonable
+     control.
+
+12. Suspension and termination of enrolment
+12.1 UNIPI may suspend your access to the Virtual Campus or terminate your enrolment where:
+          (a) you do not pay a fee when due (Clause 5.5);
+          (b) you provided false or misleading information in your application, or your eligibility is found
+              not to be met;
+          (c) you seriously or repeatedly breach these Terms or the Study Guide; or
+          (d) you are found to have engaged in serious misconduct (according to the Regulations Governing
+              the Operation of the Programme).
+12.2 Before terminating your enrolment, UNIPI will follow the disciplinary procedure and act
+     proportionately, giving you notice and an opportunity to respond, except where immediate suspension
+     is necessary to protect the Virtual Campus or other users.
+12.3 If UNIPI terminates your enrolment because of your breach, misconduct or non-payment, you will
+     not be entitled to a refund of any tuition fees already paid, and any fees that have fallen due remain
+     payable. This is separate from your own right to withdraw under Clause 6 or Clause 7.
+12.4 Clauses that by their nature should survive the end of this agreement — including Clauses 10, 14 and
+     18 — continue to apply.
+
+13. Complaints and disputes
+13.1 If you are unhappy with any aspect of your studies, the complaints and grievance procedure is set out
+     in the Regulation for the Management of Students’ Complaints and Appeals which explains how to
+     raise the matter and how it will be handled.
+13.2 If your complaint is not resolved once the internal procedure is complete, you may be able to refer
+     certain matters to an external body. Nothing in these Terms affects your statutory rights.
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 8
+14. Liability
+14.1 The Virtual Campus and its content are provided on an “as is” and “as available” basis.
+14.2 To the fullest extent permitted by law, the total aggregate liability of UNIPI to you in connection with
+     these Terms or the Programme shall not exceed the total amount of fees actually paid by you to UNIPI
+     under these Terms.
+14.3 Nothing in these Terms excludes or limits the liability of UNIPI for: (a) death or personal injury
+     caused by its negligence; (b) fraud or fraudulent misrepresentation; or (c) any other liability that
+     cannot lawfully be excluded or limited, including your rights as a consumer under applicable EU and
+     Greek consumer protection law.
+
+15. Your personal information
+15.1 How UNIPI handles your personal information is set out in the UNIPI Privacy Notice
+     (https://www.unipi.gr/en/protection-of-personal-data/ and Information-to-Data-Subjects.pdf), as
+     well as in the Program’s privacy policy which will be provided to you separately.
+
+16. Changes to these Terms
+16.1 UNIPI may amend these Terms from time to time. The current version, with its effective date, will
+     be made available to you. UNIPI will notify you of any material change. Where a material change
+     disadvantages you, you may withdraw and receive a refund in accordance with Clause 6 or Clause 7.
+
+17. General
+17.1 Notices to you are given through the Virtual Campus or your institutional email. Notices to UNIPI
+     should be sent to the contact details in Clause 19.
+17.2 You may not transfer your rights or obligations under these Terms to anyone else. UNIPI may transfer
+     its rights and obligations where your rights under these Terms are not adversely affected.
+17.3 If any provision of these Terms is found to be invalid or unenforceable, that provision is severed and
+     the remaining provisions continue in full force and effect.
+17.4 These Terms, together with your (Conditional) Offer, the Regulation Governing the Operation of the
+     Programme and the Study Guide, constitute the entire agreement between you and UNIPI relating to
+     your studies and supersede any prior representations or understandings on the same subject matter.
+17.5 A failure or delay by UNIPI in enforcing any provision of these Terms is not a waiver of its rights.
+
+18. Governing law and jurisdiction
+18.1 These Terms, and any dispute or claim arising out of or in connection with them, are governed by
+     Greek law.
+18.2 Subject to Clause 18.3, the courts of Greece, have exclusive jurisdiction to settle any dispute or claim
+     arising out of or in connection with these Terms.
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 9
+18.3 If you are a consumer habitually resident in a European Union member state, you also benefit from
+     any mandatory protective provisions of the law of your country of habitual residence, and you may
+     bring proceedings before the courts of your country of habitual residence.
+
+19. How to contact us
+For all queries, fee matters, complaints, accessibility requests and formal notices under these Terms, please
+contact:
+University of Piraeus – Department of Digital Systems
+M.Sc. in Advanced Cybersecurity Technologies and Governance
+Address: 150, O. Androutsou Str., Piraeus 18532, Greece.
+Email: cybersecgov@unipi.gr
+
+
+
+
+M.Sc. Programme: Advanced Cybersecurity Technologies and Governance – Terms and Conditions of Admission   Page 10
+
