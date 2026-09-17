@@ -7,6 +7,7 @@ Keep a separate encrypted backup and do not share these files through the reposi
 
 ## Present locally
 
+- `applications/2026-09-17-submitted-application.pdf`: complete 19-page submitted application export, including supporting documents.
 - `loukas-mertzanis-cv.pdf`
 - `cv/loukas-mertzanis-cv.tex` and its bundled assets: reconstructed, editable CV source.
 - `cv/original/loukas-mertzanis-cv.pdf`: original CV before the Clicks update.
