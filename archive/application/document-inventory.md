@@ -6,7 +6,7 @@ All canonical supporting-document paths below are inside the Git-ignored private
 | Portal task | Status | Canonical file | Notes |
 | --- | --- | --- | --- |
 | Identity Verification - Passport or National ID card | Present, content confirmation recommended | `../private/loukas-mertzanis-passport.jpeg` | The filename and source context indicate a passport image, but its visual contents were not opened during the scan. |
-| Curriculum Vitae | Present | `../private/loukas-mertzanis-cv.pdf` | Current English CV from June 2026. |
+| Curriculum Vitae | Present | `../private/loukas-mertzanis-cv.pdf` | Updated on 13 September 2026 with Clicks experience; editable LaTeX source is in `../private/cv/`. |
 | Identity Verifications - Photo | Present | `../private/loukas-mertzanis-headshot.jpg` | Recent 800 by 800 neutral-background headshot that is likely suitable as a passport-style photo. |
 | Additional Supporting Documents | No dedicated upload package yet | None | The screenshot marks this as needing attention rather than blocking the application. |
 | Education Proof | Present | `../private/loukas-mertzanis-bsc-degree.pdf` | Official one-page University of Crete degree certificate with a 9.04 grade and digital verification code. |

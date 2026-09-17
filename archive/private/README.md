@@ -8,12 +8,18 @@ Keep a separate encrypted backup and do not share these files through the reposi
 ## Present locally
 
 - `loukas-mertzanis-cv.pdf`
+- `cv/loukas-mertzanis-cv.tex` and its bundled assets: reconstructed, editable CV source.
+- `cv/original/loukas-mertzanis-cv.pdf`: original CV before the Clicks update.
 - `loukas-mertzanis-headshot.jpg`
 - `loukas-mertzanis-passport.jpeg`
 - `loukas-mertzanis-bsc-degree.pdf`
 - `loukas-mertzanis-english-proficiency.pdf`
 - `recommendations/dimitrios-kounalakis-sitecore-drafts.md`
 - `recommendations/oliver-knapp-clicks-drafts.md`
+
+The CV was updated on 13 September 2026 with the Clicks Founding Software Engineer role starting in April 2026 and Sitecore employment ending in April 2026.
+See [CV build instructions](cv/README.md) to edit and recompile it.
+The source and all CV assets are also ignored by Git and require a separate backup.
 
 ## Suggested filenames for remaining documents
 
